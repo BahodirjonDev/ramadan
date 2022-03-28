@@ -4,6 +4,7 @@
   "description": "Bismillah Ramadan-name",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js"
   },
   "keywords": [
     "hbs",
