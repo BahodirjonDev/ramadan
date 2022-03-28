@@ -1,0 +1,32 @@
+{
+  "name": "ramadan",
+  "version": "1.0.0",
+  "description": "Bismillah Ramadan-name",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "engines": {
+    "node": "16.14.2"
+  },
+  "keywords": [
+    "hbs",
+    "nodejs",
+    "express",
+    "api",
+    "ramadan"
+  ],
+  "author": "Bahodirjon Tursunov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "express-hbs": "^2.4.0",
+    "hbs": "^4.2.0",
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
