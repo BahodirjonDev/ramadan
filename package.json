@@ -4,10 +4,7 @@
   "description": "Bismillah Ramadan-name",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
-  },
-  "engines": {
-    "node": "16.14.2"
+    "start": "node index.js"
   },
   "keywords": [
     "hbs",
